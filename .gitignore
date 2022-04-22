@@ -1,0 +1,8 @@
+build/
+codegen/
+node_modules/
+
+.vscode/
+package-lock.json
+debug.log
+npm-debug.log*
